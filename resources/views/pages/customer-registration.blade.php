@@ -14,7 +14,7 @@
                 <small class="mb-5 text-danger">Note: (*) Required fields</small>
                 <form action="{{ route('admin.register-customer-post') }}" method="post" class="mt-4" id="registration-form">
                     @csrf
-                    <p class="text-primary">Person Information</p>
+                    <p class="text-primary">Personal Information</p>
                     <hr>
                     <div class="row mb-1">
                         <div class="col-12 col-lg-4 col-md-6 mb-2 pe-md-1">

@@ -109,12 +109,14 @@
 
                                     </small>
                                 </div>
+                                <!--
                                 <div class="col-md-3 ps-md-0 pt-md-1 pt-sm-2">
                                     <label for=""><small class="text-muted">If others, please specify</small></label>
                                     <input type="text" name="connection_type_specifics" id="connection_type_specifics" class="form-control mt-2" disabled>
                                     <small id="error-type-specifics" class="text-danger">
                                     </small>
                                 </div>
+                            -->
                             </div>
                             <div class="row">
                                 <div class="col-md-3 pe-md-1 pt-md-0 pt-sm-2">
@@ -125,12 +127,14 @@
                                         @endforeach
                                     </select>
                                 </div>
+                                <!--
                                 <div class="col-md-3 ps-md-0 pt-md-1 pt-sm-2">
                                     <label for=""><small class="text-muted">If others, please specify</small></label>
                                     <input type="text" name="connection_status_specifics" id="connection_status_specifics" class="form-control mt-2" disabled>
                                     <small id="error-status-specifics" class="text-danger">
                                     </small>
                                 </div>
+                            -->
                             </div>
 
                             <div class="row mb-4">
